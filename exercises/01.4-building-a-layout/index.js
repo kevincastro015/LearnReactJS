@@ -16,7 +16,7 @@ const data = {
  * define the variable 'content' here and fill it with the
  * needed code to render the bootstrap card
  **/
-let content = () => {
+const content = () => {
 	<div className="card m-5">
 		<img className="card-img-top" src={data.image} alt="Card image cap" />
 		<div className="card-body">
