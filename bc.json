@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://coffee-gibbon-34nmucyl.ws-us08.gitpod.io",
+    "address": "https://aquamarine-flea-gdrlrqxu.ws-us09.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -102,7 +102,7 @@
         {
             "slug": "02-maping-array-to-li",
             "title": "02-maping-array-to-li",
-            "done": false,
+            "done": true,
             "path": "exercises/02-maping-array-to-li",
             "translations": [
                 "es",
